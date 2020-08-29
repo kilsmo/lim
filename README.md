@@ -15,7 +15,7 @@ you actually get a chance to design a programming language, why not have fun and
 
 A *.lim file starts with any number of imports followed by any number of top level functions.
 
-An import line looks like this: sort, map : 'underscore'
+An import line looks like this: ```sort, map : 'underscore'```
 
 An exported function looks like this: foo(x, y)
 
