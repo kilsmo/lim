@@ -23,11 +23,13 @@ A private function looks like this: _bar(x, y, z)
 
 There are no keywords used in Lim. This is how you write if/else if/else code:
 
+```
 ? a <= 3
   3
 ? a >= 5
   5
 : 4
+```
 
 Every expression returns a value, and the last expression is a function is always returned.
 
