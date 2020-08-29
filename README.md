@@ -1,4 +1,4 @@
-# lim
+# Lim
 
 Lim is a new programming language.
 
